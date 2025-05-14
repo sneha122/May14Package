@@ -1,0 +1,23 @@
+{
+  "gitSyncId": "6824be6728727b3410ceeec7_ab01431a-3759-4e6a-ad92-0093a131f449",
+  "moduleUUID": "4244cf60-bf06-4bff-b141-b210441b9fc4",
+  "type": "QUERY_MODULE",
+  "unpublishedModule": {
+    "inputsForm": [
+      {
+        "children": [
+          {
+            "controlType": "INPUT_TEXT",
+            "defaultValue": "2",
+            "id": "cfljhfyadm",
+            "label": "limit",
+            "propertyName": "inputs.limit"
+          }
+        ],
+        "id": "yjfnleukbg",
+        "sectionName": ""
+      }
+    ],
+    "name": "GetUsers"
+  }
+}
